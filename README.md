@@ -7,3 +7,5 @@ Pre-Requisite: Maven installed
 
 url: https://jsonplaceholder.typicode.com/
 
+Added excel file to describe APItestcases
+
