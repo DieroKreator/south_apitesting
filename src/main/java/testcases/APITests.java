@@ -16,7 +16,7 @@ public class APITests {
 
 		given()
 
-				.when().get("https://jsonplaceholder.typicode.com/posts")
+				.when().get("/posts")
 
 				.then().statusCode(200);
 	}
